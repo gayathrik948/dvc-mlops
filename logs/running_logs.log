@@ -1,0 +1,14 @@
+[2022-09-12 21:57:22,477: INFO: stage_01_load_save]: 
+********************
+[2022-09-12 21:57:22,477: INFO: stage_01_load_save]: >>>>> stage GET DATA started <<<<<
+[2022-09-12 21:57:22,477: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-09-12 21:57:22,477: INFO: stage_01_load_save]: >>>>> stage GET DATA completed!<<<<<
+
+[2022-09-12 21:58:11,093: INFO: stage_01_load_save]: 
+********************
+[2022-09-12 21:58:11,093: INFO: stage_01_load_save]: >>>>> stage GET DATA started <<<<<
+[2022-09-12 21:58:11,093: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-09-12 21:58:12,541: INFO: common]: created directory at: artifacts\raw_local_dir
+[2022-09-12 21:58:12,557: INFO: stage_01_load_save]: raw data is saved at: artifacts\raw_local_dir\data.csv
+[2022-09-12 21:58:12,557: INFO: stage_01_load_save]: >>>>> stage GET DATA completed!<<<<<
+
