@@ -1,3 +1,4 @@
+# add stages here 
 stages:
   get_data:
     cmd: python src/stage_01_load_save.py
@@ -35,3 +36,16 @@ stages:
       - base.random_state
     outs:
     - artifacts/model_dir/model.pkl
+
+  evaluate:
+    cmd: python src/stage_04_evaluate.py
+    deps:
+    - src/stage_04_evaluate.py
+    - src/utils/common.py
+    - artifacts/split_data_dir/test.csv
+    - artifacts/model_dir/model.pkl
+    - configs/config.yaml
+    - params.yaml
+    metrics:
+      - scores.json:
+          cache: false
