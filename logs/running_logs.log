@@ -50,3 +50,21 @@
 [2022-09-12 22:21:53,545: INFO: stage_02_split_data]: data is saved at: artifacts\split_data_dir\test.csv
 [2022-09-12 22:21:53,548: INFO: stage_02_split_data]: >>>>> stage SPLIT data stage completed!<<<<<
 
+[2022-09-12 22:49:43,104: INFO: stage_03_train]: 
+********************
+[2022-09-12 22:49:43,104: INFO: stage_03_train]: >>>>> stage Training started <<<<<
+[2022-09-12 22:49:43,104: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-09-12 22:49:43,120: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-09-12 22:49:43,135: INFO: common]: created directory at: artifacts\model_dir
+[2022-09-12 22:49:43,142: INFO: stage_03_train]: model is trained and saved at: artifacts\model_dir\model.pkl
+[2022-09-12 22:49:43,142: INFO: stage_03_train]: >>>>> stage Training completed!<<<<<
+
+[2022-09-12 22:52:59,810: INFO: stage_03_train]: 
+********************
+[2022-09-12 22:52:59,810: INFO: stage_03_train]: >>>>> stage Training started <<<<<
+[2022-09-12 22:52:59,810: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-09-12 22:52:59,810: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-09-12 22:52:59,810: INFO: common]: created directory at: artifacts\model_dir
+[2022-09-12 22:52:59,825: INFO: stage_03_train]: model is trained and saved at: artifacts\model_dir\model.pkl
+[2022-09-12 22:52:59,825: INFO: stage_03_train]: >>>>> stage Training completed!<<<<<
+
