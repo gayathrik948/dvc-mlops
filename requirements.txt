@@ -1,9 +1,11 @@
 ### dependency
 tqdm
 dvc
+dvc[gdrive]
 pandas
 numpy
 PyYAML
+sklearn
 
 ### local packages -
-# -e . # << uncomment this to install from setup.py
+-e . # << uncomment this to install from setup.py
