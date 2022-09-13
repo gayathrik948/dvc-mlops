@@ -105,3 +105,26 @@
 [2022-09-13 10:03:19,851: INFO: common]: json file saved at: scores.json
 [2022-09-13 10:03:19,851: INFO: stage_04_evaluate]: >>>>> stage Evaluate completed!<<<<<
 
+[2022-09-13 10:07:51,510: INFO: stage_03_train]: 
+********************
+[2022-09-13 10:07:51,510: INFO: stage_03_train]: >>>>> stage Training started <<<<<
+[2022-09-13 10:07:51,511: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-09-13 10:07:51,511: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-09-13 10:07:51,511: INFO: common]: created directory at: artifacts\model_dir
+[2022-09-13 10:07:51,577: INFO: stage_03_train]: model is trained and saved at: artifacts\model_dir\model.pkl
+[2022-09-13 10:07:51,577: INFO: stage_03_train]: >>>>> stage Training completed!<<<<<
+
+[2022-09-13 10:07:53,998: INFO: stage_04_evaluate]: 
+********************
+[2022-09-13 10:07:53,998: INFO: stage_04_evaluate]: >>>>> stage Evaluate started <<<<<
+[2022-09-13 10:07:53,998: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-09-13 10:07:54,029: INFO: common]: json file saved at: scores.json
+[2022-09-13 10:07:54,029: INFO: stage_04_evaluate]: >>>>> stage Evaluate completed!<<<<<
+
+[2022-09-13 10:08:04,807: INFO: stage_04_evaluate]: 
+********************
+[2022-09-13 10:08:04,807: INFO: stage_04_evaluate]: >>>>> stage Evaluate started <<<<<
+[2022-09-13 10:08:04,807: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-09-13 10:08:04,851: INFO: common]: json file saved at: scores.json
+[2022-09-13 10:08:04,851: INFO: stage_04_evaluate]: >>>>> stage Evaluate completed!<<<<<
+
