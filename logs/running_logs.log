@@ -98,3 +98,10 @@
 [2022-09-12 23:38:20,301: INFO: common]: json file saved at: scores.json
 [2022-09-12 23:38:20,306: INFO: stage_04_evaluate]: >>>>> stage Evaluate completed!<<<<<
 
+[2022-09-13 10:03:18,506: INFO: stage_04_evaluate]: 
+********************
+[2022-09-13 10:03:18,506: INFO: stage_04_evaluate]: >>>>> stage Evaluate started <<<<<
+[2022-09-13 10:03:18,506: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-09-13 10:03:19,851: INFO: common]: json file saved at: scores.json
+[2022-09-13 10:03:19,851: INFO: stage_04_evaluate]: >>>>> stage Evaluate completed!<<<<<
+
